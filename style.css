@@ -1,0 +1,17 @@
+.mb{
+ margin-bottom: 30px;
+}
+h2{
+    background:skyblue;
+    text-align: center;
+    padding: 5px 10px;
+
+}
+.flex{
+    display: flex;
+    justify-content: space-evenly;
+     
+    gap: 20px;
+
+
+}
